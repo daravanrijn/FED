@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home Page 
-  <img src="images/screenshot1.png" width="375px" alt="Home Page">
+  <img src="readme-images/homepage.png" width="375px" alt="Home Page">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   The Athletes Code page
@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-- Ik merkte dat met de bril ik eigenlijk alle tekst nog goed kon lezen. 
+  - Ik merkte dat met de bril ik eigenlijk alle tekst nog goed kon lezen. 
     Het contrast van de grijze achtergrond met witte vlakken werkt goed en ook de zwarte tekst op lichte/witte achtergrond  en de witte tekst op donkere achtergrond kon ik allemaal nog goed lezen. 
     Hoe donkerder de afbeeldingen, hoe lastiger om te zien.
 
@@ -73,7 +73,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Ik moest even uitvogelen hoe het werkte, maar toen lukte het wel om door de carousel te navigeren. Hij las de kopjes en tekst voor en zelfs de afbeelding werd gedetailleerd omschreven. Het lukte me in eerste instantie niet om op de knoppen te drukken. Terwijl als je normaal gewoon klikt je naar een andere pagina wordt geleid. 
   Ik kreeg te horen dat ik me op een knop bevond en als ik hierop wilde klikken moest ik control + option + spatie inklikken, maar wanneer ik dat deed gebeurde er niks.
 
-- De banner werd pas opgelezen als ik van pagina veranderde. Toen ik naar de pagina over De Athletes Code ging omschreef hij de afbeelding wel weer uitgebreid en toen ie naar de tweede kop ging om het voor te lezen en ik swipete leek het vast te lopen en kreeg ik 'm niet meer aan de praat.
+  - De banner werd pas opgelezen als ik van pagina veranderde. Toen ik naar de pagina over De Athletes Code ging omschreef hij de afbeelding wel weer uitgebreid en toen ie naar de tweede kop ging om het voor te lezen en ik swipete leek het vast te lopen en kreeg ik 'm niet meer aan de praat.
 Het viel me op dat niet elke afbeelding omschreven werd.
 Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maar het is niet makkelijk. Hij las wel alles voor, maar het voelde chaotisch en de stem is niet fijn.
 
