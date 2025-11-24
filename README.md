@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Responsive 
+  Responsive
  
 </details>
 
@@ -58,6 +58,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  - Ik merkte dat met de bril ik eigenlijk alle tekst nog goed kon lezen. 
+    Het contrast van de grijze achtergrond met witte vlakken werkt goed en ook de zwarte tekst op lichte/witte achtergrond  en de witte tekst op donkere achtergrond kon ik allemaal nog goed lezen. 
+    Hoe donkerder de afbeeldingen, hoe lastiger om te zien.
+
+  - Met de elastiekjes voor het nabootsen van slechte motoriek merkte ik wel dat het scrollen trager ging. Door deze website navigeer je je voornamelijk door te scrollen en klikken en dat ging nog wel redelijk.
+
+  - Het spasme apparaat liet echt m'n hele arm/hand trippen dus dat ging sws al niet zo goed hahah. Ik denk dat het dan erg ingewikkeld wordt. 
+
+  - Ik heb ook m'n scherm even op zwart wit gezet om een soortvan kleurenblindheid  na te bootsen en dan wordt de site wel heel saai. Je kan 'm nog steeds op dezelfde manier gebruiken, maar het wordt er niet aantrekkelijker op. De rode kleur van coca cola verdwijnt natuurlijk helemaal. Los van de afbeeldingen hebben ze niet heel veel verleidelijke elementen. 
+
+  Voice-over:
+
+  - Ik moest even uitvogelen hoe het werkte, maar toen lukte het wel om door de carousel te navigeren. Hij las de kopjes en tekst voor en zelfs de afbeelding werd gedetailleerd omschreven. Het lukte me in eerste instantie niet om op de knoppen te drukken. Terwijl als je normaal gewoon klikt je naar een andere pagina wordt geleid. 
+  Ik kreeg te horen dat ik me op een knop bevond en als ik hierop wilde klikken moest ik control + option + spatie inklikken, maar wanneer ik dat deed gebeurde er niks.
+
+- De banner werd pas opgelezen als ik van pagina veranderde. Toen ik naar de pagina over De Athletes Code ging omschreef hij de afbeelding wel weer uitgebreid en toen ie naar de tweede kop ging om het voor te lezen en ik swipete leek het vast te lopen en kreeg ik 'm niet meer aan de praat.
+Het viel me op dat niet elke afbeelding omschreven werd.
+Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maar het is niet makkelijk. Hij las wel alles voor, maar het voelde chaotisch en de stem is niet fijn
+
 </details>
 
 
@@ -68,7 +87,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/screenshot8.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/breakdowntest.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/screenshot9.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -88,13 +107,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Ik begon vol goede moed met dit vak en vond de allereerste les best wel leuk, maar helaas liep de rest van de eerste week door prive omstandigheden anders dan gehoopt. Afgelopen week (de tweede week) merkte ik hierdoor dat ik er iets meer uit was (studeren in het algemeen) en wat meer moeite had om goed aan de slag te gaan, maar ondanks dit probeede ik wel mijn best te doen. 
-
-  Ik vind coderen best wel ingewikkeld en ik voel nog niet zoveel vertrouwen in mezelf, dat vind ik jammer. Ik twijfel bij veel of ik het wel goed doe/hoe het moet en dat gevoel dat ik het niet kan helpt helaas niet mee om gewoon lekker bezig te zijn met code schrijven.
-  Maar als ik aan de slag ben merk ik wel dat bepaalde kennis weer naar boven komt en ik vind het ook leuk om nieuwe dingen te leren. Dit gevoel probeer ik aan te houden en ik merk dat de motivatie de tweede helft van deze week al wel weer een stuk beter was. Ik zal in ieder geval mijn best blijven doen en hopelijk maak ik er uiteindelijk wat moois van :) 
-
-  De eerste pagina in HTML schrijven ging opzich goed, maar er zijn wel een paar dingen waar ik niet zeker weet of het klopt. Voornamelijk over de sections en de footer. 
-  Ik heb zin om verder aan de slag te gaan met CSS nu de content op de pagina staat, maar hoop daarvoor nog even hulp te hebben gekregen met de HTML checken.
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
 
   <img src="images/screenshot3.png" width="375px" alt="Hele pagina (uitgezoomd)">
   <img src="images/screenshot4.png" width="375px" alt="Eerste deel pagina (van boven naar beneden)">
