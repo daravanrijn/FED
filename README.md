@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="images/screenshot1.png" width="375px" alt="Home Page">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Coca-cola Page 
-  <img src="images/screenshot2.png" width="375px" alt="Coca-cola Page">
+  The Athletes Code page
+  <img src="readme-images/athletescode.png" width="375px" alt="Coca-cola Page">
  
 </details>
 
