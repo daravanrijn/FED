@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  - Ik merkte dat met de bril ik eigenlijk alle tekst nog goed kon lezen. 
+- Ik merkte dat met de bril ik eigenlijk alle tekst nog goed kon lezen. 
     Het contrast van de grijze achtergrond met witte vlakken werkt goed en ook de zwarte tekst op lichte/witte achtergrond  en de witte tekst op donkere achtergrond kon ik allemaal nog goed lezen. 
     Hoe donkerder de afbeeldingen, hoe lastiger om te zien.
 
@@ -75,7 +75,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 - De banner werd pas opgelezen als ik van pagina veranderde. Toen ik naar de pagina over De Athletes Code ging omschreef hij de afbeelding wel weer uitgebreid en toen ie naar de tweede kop ging om het voor te lezen en ik swipete leek het vast te lopen en kreeg ik 'm niet meer aan de praat.
 Het viel me op dat niet elke afbeelding omschreven werd.
-Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maar het is niet makkelijk. Hij las wel alles voor, maar het voelde chaotisch en de stem is niet fijn
+Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maar het is niet makkelijk. Hij las wel alles voor, maar het voelde chaotisch en de stem is niet fijn.
 
 </details>
 
@@ -87,7 +87,7 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/breakdowntest.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdowntest.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/screenshot9.jpg" width="375px" alt="breakdown van een dynamisch deel">
