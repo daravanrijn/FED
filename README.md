@@ -86,14 +86,22 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/breakdown1.png" width="375px" alt="breakdown van de hele pagina">
+  ### De hele home pagina: 
+  <img src="readme-images/breakdown1.png" width="375px" alt="breakdown van de hele home pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
+  ### Dynamisch deel van de home pagina: 
+  <img src="readme-images/breakdown2.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### De hele athletes code pagina: 
+  <img src="readme-images/breakdown3.png" width="375px" alt="breakdown van nog een dynamisch deel van de home pagina">
+  
+  ### Dynamisch deel van de athletes code pagina: 
+  <img src="readme-images/breakdown4.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+  <img src="readme-images/breakdown5.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+  <img src="readme-images/breakdown6.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+  <img src="readme-images/breakdown7.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+  <img src="readme-images/breakdown8.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+  <img src="readme-images/breakdown9.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
 
 </details>
 
