@@ -125,14 +125,22 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
- 
+  Ik vond de eerste les een beetje overweldigend, omdat ik schrok van hoe weinig ik snapte.
+  Ik begreep toen wel (en dat was ook al m'n plan van te voren) dat ik dit vak goed moest gaan bijhouden en heb voor de eerste drie lessen de tijd genomen om me goed voor te bereiden. Ik heb de teksten gelezen, video's gekeken en de opdrachten gedaan. Ook heb ik aan een vriend wat extra hulp gevraagd voor Grid en Flexbox.
+  Tot nu toe vond ik dit allemaal best goed gaan en ben ik wel trots op hoe serieus ik het neem. 
 
-  <img src="images/screenshot3.png" width="375px" alt="Hele pagina (uitgezoomd)">
-  <img src="images/screenshot4.png" width="375px" alt="Eerste deel pagina (van boven naar beneden)">
-  <img src="images/screenshot5.png" width="375px" alt="Tweede deel pagina (van boven naar beneden)">
-  <img src="images/screenshot6.png" width="375px" alt="Derde deel pagina (van boven naar beneden)">
-  <img src="images/screenshot7.png" width="375px" alt="Laatste deel pagina (van boven naar beneden)">
+  Ik heb van allebei de pagina's de breakdownschets volledig gemaakt en dit vond ik fijn om te doen, omdat het een goed overzicht geeft.
+  Dit kon ik goed gebruiken bij het begin aan m'n HTML. Ik was van te voren bang dat ik er niet uit zou komen en veel moest gaan vragen, maar eigenlijk merkte ik toen ik eenmaal bezig was dat het best goed te doen was om de HTML te schrijven (dank dus ook aan de breakdownschets). 
+  Ik twijfel alleen een beetje over wanneer ik <div> moet gebruiken en ik vind de footer nog wat ingewikkeld.  
+  Voor de CSS en de vervolgstappen ben ik wel een beetje bang, maar hopelijk moet dat ook wel goed komen. 
+
+
+  <img src="readme-images/eerste-versie-ss1.png" width="375px" alt="Eerste deel pagina (van boven naar beneden)">
+  <img src="readme-images/eerste-versie-ss2.png" width="375px" alt="Tweedee deel pagina (van boven naar beneden)">
+  <img src="readme-images/html-versie1-ss1.png" width="375px" alt="Eerste deel HTML (van boven naar beneden)">
+  <img src="readme-images/html-versie1-ss2.png" width="375px" alt="Tweede deel HTML (van boven naar beneden)">
+  <img src="readme-images/html-versie1-ss3.png" width="375px" alt="Derde deel HTML (van boven naar beneden)">
+  <img src="readme-images/html-versie1-ss4.png" width="375px" alt="Vierde deel HTML (van boven naar beneden)">
   
 
   ### Agenda voor meeting
@@ -140,10 +148,12 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Ik zou graag   | en dit             | en ik dit    | en dan ik dat    |
+  | willen kijken  | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | of mijn HTML   | ...                | ...          | ...              |
+  | klopt en waar
+  | ik wel en niet 
+  | <div> moet gebruiken.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
