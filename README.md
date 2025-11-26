@@ -131,9 +131,10 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
 
   Ik heb van allebei de pagina's de breakdownschets volledig gemaakt en dit vond ik fijn om te doen, omdat het een goed overzicht geeft.
   Dit kon ik goed gebruiken bij het begin aan m'n HTML. Ik was van te voren bang dat ik er niet uit zou komen en veel moest gaan vragen, maar eigenlijk merkte ik toen ik eenmaal bezig was dat het best goed te doen was om de HTML te schrijven (dank dus ook aan de breakdownschets). 
-  Ik twijfel alleen een beetje over wanneer ik <div> moet gebruiken en ik vind de footer nog wat ingewikkeld.  
+  Ik twijfel alleen een beetje over wanneer ik 'div' moet gebruiken en ik vind de footer nog wat ingewikkeld.  
   Voor de CSS en de vervolgstappen ben ik wel een beetje bang, maar hopelijk moet dat ook wel goed komen. 
 
+  Screenshots van mijn HTML tot nu toe:
 
   <img src="readme-images/eerste-versie-ss1.png" width="375px" alt="Eerste deel pagina (van boven naar beneden)">
   <img src="readme-images/eerste-versie-ss2.png" width="375px" alt="Tweedee deel pagina (van boven naar beneden)">
@@ -153,7 +154,7 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
   | of mijn HTML   | ...                | ...          | ...              |
   | klopt en waar
   | ik wel en niet 
-  | <div> moet gebruiken.
+  | 'div' moet gebruiken.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
