@@ -97,10 +97,20 @@ Toen ik even iets beter begreep hoe het werkte ging het navigeren wel beter, maa
   
   ### Dynamisch deel van de athletes code pagina: 
   <img src="readme-images/breakdown4.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+
+  ### Nog een dynamisch deel van de athletes code pagina:
   <img src="readme-images/breakdown5.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+
+  ### Nog een dynamisch deel van de athletes code pagina:
   <img src="readme-images/breakdown6.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+
+  ### Nog een dynamisch deel van de athletes code pagina:
   <img src="readme-images/breakdown7.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+
+  ### Nog een dynamisch deel van de athletes code pagina:
   <img src="readme-images/breakdown8.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
+
+  ### Nog een dynamisch deel van de athletes code pagina:
   <img src="readme-images/breakdown9.png" width="375px" alt="breakdown van een dynamisch deel van de home pagina">
 
 </details>
